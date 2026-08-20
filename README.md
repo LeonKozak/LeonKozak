@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Leon 👋
 
-<!--
-**LeonKozak/LeonKozak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Software Engineering graduate interested in software development, backend systems and building practical applications.
 
-Here are some ideas to get you started:
+## 🔨 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛒 Full-stack e-commerce web application
+- 🗄️ SQL database integration using Supabase
+- 📁 Expanding my software development portfolio
+
+## 🚀 Featured Projects
+
+- 🎮 Unreal Engine 5 AI Stealth System
+- 🛒 E-commerce Web Application
+- 🌐 Java Multicast Chat
+- 🎵 Music Genre Classification
+- 💻 C++ Expression Evaluator
+
+## 🛠️ Technologies
+
+Java • Python • C++ • JavaScript • SQL • HTML • CSS • Supabase • Unreal Engine 5
