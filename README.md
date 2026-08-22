@@ -11,7 +11,7 @@ Computer Science & Software Engineering graduate interested in software developm
 ## 🚀 Featured Projects
 
 - 🎮 Unreal Engine 5 AI Stealth System
-- 🛒 E-commerce Web Application
+- 🛒 E-commerce Website
 - 🌐 Java Multicast Chat
 - 🎵 Music Genre Classification
 - 💻 C++ Expression Evaluator
