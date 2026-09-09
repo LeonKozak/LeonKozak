@@ -6,4 +6,4 @@ I enjoy working across different areas of software, including web development, d
 
 ## 🛠️ Technologies
 
-**Java · Python · C++ · JavaScript · SQL · HTML · CSS · Supabase · Unreal Engine 5**
+**Java · Python · C++ · SQL · Unreal Engine 5**
