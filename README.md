@@ -19,6 +19,3 @@ During my work placement at Trane Technologies I designed and built a self-servi
 - **Databases:** PostgreSQL · MongoDB
 - **Tools:** Git · GitHub · Unreal Engine 5 · Power Automate · Power Apps · SharePoint
 
-## 📫 Contact
-
-[LinkedIn](https://www.linkedin.com/in/leon-kozak) · [leonkozak0@gmail.com](mailto:leonkozak0@gmail.com)
