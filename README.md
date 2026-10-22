@@ -2,8 +2,6 @@
 
 Computer Science & Software Engineering graduate from Maynooth University, Ireland, looking for a graduate role in **software engineering** or **data**.
 
-During my work placement at Trane Technologies I designed and built a self-service portal (SharePoint, Power Automate, Power Apps) that replaced an email-based procurement card process and was approved for rollout.
-
 ## 📂 Projects
 
 | Project | What it is | Built with |
