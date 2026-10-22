@@ -1,6 +1,6 @@
 # Hi, I'm Leon 👋
 
-Computer Science & Software Engineering graduate from Maynooth University, Ireland, looking for a graduate role in **software engineering** or **data**.
+I’m a Computer Science & Software Engineering graduate from Maynooth University, Ireland, and I enjoy building my own programs..
 
 ## 📂 Projects
 
