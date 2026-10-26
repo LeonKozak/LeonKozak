@@ -1,6 +1,6 @@
 # Hi, I'm Leon 👋
 
-I’m a Computer Science & Software Engineering graduate from Maynooth University, Ireland, and I enjoy building my own programs..
+I’m a Computer Science & Software Engineering graduate from Maynooth University, Ireland, and I enjoy building programs..
 
 ## 📂 Projects
 
