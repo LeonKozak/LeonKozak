@@ -9,7 +9,6 @@ I like building things that solve real problems, from data apps to game AI.
 - 🎹 Outside code: piano and music production
 
 <a href="https://www.linkedin.com/in/leon-kozak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:leonkozak0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 ---
 
