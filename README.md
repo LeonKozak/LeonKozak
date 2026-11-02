@@ -9,28 +9,17 @@ I like building things that solve real problems, from data apps to game AI.
 - 🎹 Outside code: piano and music production
 
 <a href="https://www.linkedin.com/in/leon-kozak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:leonkozak0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+📫 **leonkozak0@gmail.com**
 
 ---
 
-## 🌊 Featured project
-
-### [Beach Day: Playa de San Juan](https://github.com/LeonKozak/BeachDay) · [▶️ Live app](https://YOUR-APP-URL.streamlit.app)
-
-My favourite beach, scored hour by hour. A Streamlit web app that combines live weather and sea forecasts into a beach score, shows the best time to go, and animates the conditions with original pixel-art tiles.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?style=flat-square)
-
-<img src="https://raw.githubusercontent.com/LeonKozak/BeachDay/main/docs/screenshots/app.png" alt="Beach Day app screenshot" width="600">
-
----
-
-## 📂 More projects
+## 📂 Projects
 
 | | Project | What it is | Built with |
 | :---: | --- | --- | --- |
+| 🌊 | [Beach Day](https://github.com/LeonKozak/BeachDay) · [live app](https://YOUR-APP-URL.streamlit.app) | Scores my favourite beach hour by hour from live weather and sea forecasts, with pixel-art animations | Python, pandas, Streamlit |
 | 🎵 | [Music Genre Classification](https://github.com/LeonKozak/music-genre-classification) | 1D CNN that classifies music into 10 genres, raising test accuracy from 45% to 68% | Python, TensorFlow |
 | 👾 | [AI Chaser Sandbox](https://github.com/LeonKozak/ai-chaser-sandbox) | Final year project: enemy AI that hunts the player by sight and sound | Unreal Engine 5, Blueprints |
 | 💾 | [Game Backup Manager](https://github.com/LeonKozak/GameBackupManager) | Console app that creates and restores timestamped game-save backups | Java, Java NIO |
