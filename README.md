@@ -1,7 +1,7 @@
 # Hi, I'm Leon 👋
 
 **Computer Science & Software Engineering graduate** from Maynooth University, Ireland 🇮🇪, now based in Alicante, Spain 🇪🇸.
-I like building things that solve real problems, from data apps to game AI.
+I like building things.
 
 - 🔭 Currently building small projects with **AI coding agents** (Claude Code)
 - 💼 Looking for a graduate role in **software engineering** or **data**
